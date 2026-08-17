@@ -1,4 +1,4 @@
-# 🏓 Pong — Python
+# 🏓 Pong Python
 
 A classic **Pong** arcade game built in Python using the `turtle` module.
 
@@ -11,6 +11,7 @@ I made this project to practise **Object-Oriented Programming (OOP)** while doin
 * 🏆 Scoreboard
 * 🐍 Built entirely with Python's `turtle` module
 * 💬 Commented code, making it easy to experiment with and modify
+<img src="https://i.gyazo.com/8ab750f2abfe8b2a0470118be0954a81.png">
 
 ## 🚀 How to Run
 
@@ -44,6 +45,8 @@ There are a few things I'd like to add in the future:
 * 🤖 A computer-controlled opponent
 * ⚡ A speed multiplier/difficulty system
 * 🎨 Different colours for different scores
-* 🏓 More gameplay customisation
+* 🏓 More gameplay customisation (Power Ups, 2v2s etc)
 
 Feel free to explore the code, change things around, and experiment with it!
+
+
